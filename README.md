@@ -2,7 +2,7 @@
 
 <!-- Banner GIF centrado -->
 
-![Gif]([https://imgur.com/a/uFXy26e](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NtaHl6eWNkZDYyemV4NzdnMzE1cjM0YWJ5bHE5dmduMmNqY2w2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yKV9xgYCyqOWHnKCGH/giphy.gif))
+![Gif](https://imgur.com/a/uFXy26e](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NtaHl6eWNkZDYyemV4NzdnMzE1cjM0YWJ5bHE5dmduMmNqY2w2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yKV9xgYCyqOWHnKCGH/giphy.gif)
 
 
 Hola, soy Jorge. Estudiante de Ingeniería en Informática con interés en la integración de IA local, el desarrollo multiplataforma en C# y el diseño/gestión de bases de datos.
