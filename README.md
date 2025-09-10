@@ -1,6 +1,9 @@
 # Jorge Soto Contreras
 
-![Mi GIF](https://imgur.com/a/uFXy26e)
+<!-- Banner GIF centrado -->
+<p align="center">
+  <img src="https://i.imgur.com/mTlCI1N.gif" alt="Hola" width="900">
+</p>
 
 Hola, soy Jorge. Estudiante de Ingeniería en Informática con interés en la integración de IA local, el desarrollo multiplataforma en C# y el diseño/gestión de bases de datos.
 
