@@ -2,7 +2,7 @@
 
 <!-- Banner GIF centrado -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTduYmI1NGJiaHJ1YmRjZjI1cWEwbWp3bWd3bXQ3amE2OTd4M2w1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yKV9xgYCyqOWHnKCGH/giphy.gif" alt="Banner" width="900">
+  <img src="https://media1.tenor.com/m/RAUh4UBAykMAAAAC/blue-archive-the-animation-blue-archive.gif" alt="Banner" width="400">
 </p>
 
 
