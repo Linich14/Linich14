@@ -1,28 +1,53 @@
-# Jorge Soto Contreras
-
-<!-- Banner GIF centrado -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/RAUh4UBAykMAAAAC/blue-archive-the-animation-blue-archive.gif" alt="Banner" width="400">
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=400&size=20&pause=2000&color=C9B1D9&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Full-stack+Developer;Data+Science+%26+Local+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="mailto:jorge.soto2022@alu.uct.cl"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Linich14&style=flat-square&color=9B6DA8&label=visitas" alt="Contador de visitas" />
+</p>
 
+---
 
-Hola, soy Jorge. Estudiante de Ingeniería en Informática con interés en la integración de IA local, el desarrollo multiplataforma en C# y el diseño/gestión de bases de datos.
+## Jorge Soto Contreras
 
-A lo largo de mi formación, he asumido roles de liderazgo en proyectos académicos, coordinando equipos y facilitando la comunicación.
+Estudiante de Ingeniería en Informática con interés en la integración de IA local, el desarrollo multiplataforma en C# y el diseño y gestión de bases de datos.
 
-- Rol: Full‑stack · Data Scientist  
-- Estado: Estudiante, trabajando a tiempo parcial. Abierto a colaboraciones.  
-- Idiomas: Español, Inglés
+| | |
+|:--|:--|
+| **Rol** | Full-stack · Data Scientist |
+| **Estado** | Estudiante, trabajando a tiempo parcial |
+| **Idiomas** | Español · Inglés |
 
-Tecnologías principales
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-003B57?style=flat&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+---
 
-## Que estoy usando
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linich14&hide_progress=true)
+## Stack
 
-Contacto
-- Correo: [jorge.soto2022@alu.uct.cl](mailto:jorge.soto2022@alu.uct.cl)
+**Frontend**
 
+![React](https://img.shields.io/badge/React-0D0B16?style=for-the-badge&logo=react&logoColor=C9B1D9)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0B16?style=for-the-badge&logo=typescript&logoColor=C9B1D9)
+![Blazor](https://img.shields.io/badge/Blazor-0D0B16?style=for-the-badge&logo=dotnet&logoColor=C9B1D9)
 
+**Backend & IA**
+
+![C#](https://img.shields.io/badge/C%23-0D0B16?style=for-the-badge&logo=c-sharp&logoColor=C9B1D9)
+![Python](https://img.shields.io/badge/Python-0D0B16?style=for-the-badge&logo=python&logoColor=C9B1D9)
+![Django](https://img.shields.io/badge/Django-0D0B16?style=for-the-badge&logo=django&logoColor=C9B1D9)
+
+**Bases de Datos & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-0D0B16?style=for-the-badge&logo=mysql&logoColor=C9B1D9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0B16?style=for-the-badge&logo=postgresql&logoColor=C9B1D9)
+![Supabase](https://img.shields.io/badge/Supabase-0D0B16?style=for-the-badge&logo=supabase&logoColor=C9B1D9)
+![Firebase](https://img.shields.io/badge/Firebase-0D0B16?style=for-the-badge&logo=firebase&logoColor=C9B1D9)
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Linich14&show_icons=true&bg_color=0D0B16&title_color=C9B1D9&text_color=E8D5F5&icon_color=9B6DA8&border_color=3A2A4A&hide_border=false&locale=es" width="48%" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Linich14&layout=compact&bg_color=0D0B16&title_color=C9B1D9&text_color=E8D5F5&border_color=3A2A4A&hide_border=false&locale=es" width="48%" alt="langs" />
+</p>
